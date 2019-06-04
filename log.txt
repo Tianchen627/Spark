@@ -1,0 +1,6 @@
+This is the first error.
+This is the second error.
+THis is the first warning.
+THis is the second warning.
+THis is nothing.
+THis is the first error and warning.
